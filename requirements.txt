@@ -1,0 +1,5 @@
+groq
+pandas
+pymupdf4llm
+scikit_learn
+streamlit
